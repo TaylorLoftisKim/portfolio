@@ -1,0 +1,22 @@
+.header {
+  float: center;
+  padding-top: 0px;
+  padding-left: 50px;
+  position: inherit;
+
+}
+
+hr {
+  width: 90%;
+  color: black;
+
+}
+
+#img{
+float: left;
+border-right: 1px solid lightblue;
+height: 125px;
+width: 300px;
+position: inherit;
+
+}
