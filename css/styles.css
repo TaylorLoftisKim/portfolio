@@ -12,6 +12,11 @@ float: inherit;
 
 }
 
+.panel2 {
+  font-size: ;
+  font: sans-serif;
+}
+
 #head {
 float: left;
 
@@ -54,6 +59,13 @@ hr {
 }
 
 #img4 {
+  height: 200px;
+  width: 400px;
+  float: right;
+  padding: 0 0 0 0;
+}
+
+#img5 {
   height: 200px;
   width: 400px;
   float: right;
