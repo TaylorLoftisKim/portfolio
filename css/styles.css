@@ -1,5 +1,5 @@
 .header {
-float: inherit;
+float: inherit;;
 
 }
 
@@ -8,13 +8,21 @@ float: inherit;
 }
 
 .panel-body {
-  margin-top: auto;
+
 
 }
 
 .panel2 {
   font-size: ;
-  font: sans-serif;
+
+}
+
+.container {
+  background-color: tan;
+}
+
+.row {
+  background-color:
 }
 
 #head {
@@ -23,13 +31,21 @@ float: left;
 }
 
 .center {
-  margin: 0;
+text-align: center;
 
 }
 
 .panel {
-  position: relative;
+  position: relative;;
   color: black;
+
+}
+
+.panel-padding {
+
+}
+
+ul {
 
 }
 
@@ -42,13 +58,13 @@ hr {
 #img1 {
  height: 200px;
  width: 200px;
- float: inherit;
+ float: left;
 }
 
 #img2 {
   height: 200px;
   width: 400px;
-  float: inherit;
+  float: right;
 }
 
 #img3 {

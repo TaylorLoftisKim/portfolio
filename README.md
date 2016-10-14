@@ -16,7 +16,7 @@ _{This is an online portfolio for Taylor Loftis-Kim. The portfolio displays Tayl
 
 ## Known Bugs
 
-_{Portfolio webpage may become out of proportion when shrinking and expanding the webpage.}
+_{Portfolio webpage may become out of proportion when shrinking and expanding the webpage. On "My Background", image on the right side is not being displayed.}
 
 ## Technologies Used
 
