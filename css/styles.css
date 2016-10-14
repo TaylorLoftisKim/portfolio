@@ -9,12 +9,15 @@ float: inherit;;
 
 .panel-body {
 
-
 }
 
 .panel2 {
   font-size: ;
 
+}
+
+.panel2 p {
+  font-style: oblique;
 }
 
 .container {
